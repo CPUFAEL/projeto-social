@@ -54,3 +54,65 @@ section#redes-sociais img:hover{
     transform: translate(-3px, -3px);
     opacity: 1;
 }
+/* }
+section#telefone{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 627px;
+    width: 311px;
+    background: url("../imagens/frame-iphone.png") no-repeat;
+}
+section#telefone img#home{
+    background-color: white;
+    position: absolute;
+    top: 549px;
+    left: 122px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.438);
+    box-sizing: border-box;
+}
+section#telefone img#youtube{
+    position: absolute;
+    top: 480px;
+    left: 30px;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 25%;
+}
+section#telefone img#github{
+    position: absolute;
+    top: 480px;
+    left: 90px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 25%;
+}
+section#telefone img#instagram{
+    position: absolute;
+    top: 480px;
+    left: 155px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 25%;
+}
+section#telefone img#twitter{
+    position: absolute;
+    top: 480px;
+    left: 220px;
+    margin: 10px;
+    width: 50px;
+    border-radius: 25%;
+}
+section#telefone img#facebook{
+    position: absolute;
+    top: px;
+    left: 0px;
+    margin: 10px;
+    width: 50px;
+    border-radius: 25%;
+} */
